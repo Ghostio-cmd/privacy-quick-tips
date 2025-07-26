@@ -1,4 +1,4 @@
-# Privacy Quick Tips by 🔒
+# Privacy Quick Tips 🔒
 
 Welcome to my personal collection of **quick, impactful tips** designed to help you boost your digital privacy and security, right now.
 
